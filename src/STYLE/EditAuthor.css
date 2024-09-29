@@ -1,0 +1,10 @@
+.error-message { 
+    margin-bottom: -8px !important;
+    color: red;
+    text-transform: uppercase;
+}
+.error-message-last { 
+    margin-bottom: -2px;
+    color: red;
+    text-transform: uppercase;
+}
